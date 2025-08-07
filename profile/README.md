@@ -1,7 +1,7 @@
 <h1 align="center">Nabstore Store</h1>
 <p align="center">
   <a href="https://Central-Indonesia.github.io/">
-    <img src="https://r2.fivemanage.com/wuFyfLefICmpIY8KLSe7p/garuda.png">
+    <img src="https://r2.fivemanage.com/WX5Hv6yMgODTgG2WF6rml/nabstore-newlogo.png">
   </a>
     <hr>
     <p align="center"><strong>Nabstore developer team</p>
